@@ -1,0 +1,5 @@
+app.service('service', function () {
+
+
+
+});
